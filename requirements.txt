@@ -1,0 +1,4 @@
+numpy
+pybullet>=1.7.5
+pyquaternion
+scipy
